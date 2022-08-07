@@ -277,7 +277,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Kibirt B Chane** <[Kibi](https://github.com/Koderua)>
-* kibirtbayou@yahoo.com
-* **Heyeman Urgessa** <[Heyo](https://github.com/Heyeman)>
-* abdisaheyeman083@gmail.com
+* **Mesfin Mulugeta** <[msfn](https://github.com/5237-mest)>
+* msfnmulugeta@gmail.com
+* **Hiruy Tesfaye** <[Hiruy](https://github.com/Hiruy3)>
+* hiruytesfaye321@gmail.com
