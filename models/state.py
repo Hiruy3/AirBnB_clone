@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 """
-State Model
+Class State that inherit from BaseModel.
 """
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """State"""
+    """State name"""
     name = ''

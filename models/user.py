@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" User Model """
+""" Class User inherits from BaseModel """
 from models.base_model import BaseModel
 
 

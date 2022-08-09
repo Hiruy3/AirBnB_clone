@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Amenity Model
+Class Amenity that inherit from BaseModel.
 """
 from models.base_model import BaseModel
 
