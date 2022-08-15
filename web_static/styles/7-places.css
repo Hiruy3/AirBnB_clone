@@ -3,14 +3,20 @@
  */
 
 /* Places style */
-.places article {
+.places article,
+.cent article {
   border: 1px solid #ff5a5f;
   border-radius: 4px;
-  display: inline-block;
+  /* display: inline-block; */
   margin: 20px;
   padding: 20px;
   width: 390px;
 }
+
+.flex article {
+  display: inline-block;
+}
+
 
 /*
  * --- Places header style ---
@@ -30,6 +36,13 @@
   font-weight: bold;
   text-align: center;
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+}
+
+.cent article {
+  /* display: inline; */
+  align-items: center;
+
 }
